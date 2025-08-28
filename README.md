@@ -41,9 +41,6 @@ Plant-Leaf-Disease-Detection/
 └── README.md           # Project documentation
 
 ⚙️ Installation
-# Clone the repository
-git clone https://github.com/Jagadeeswar183/Plant-Leaf-Disease-Detection.git
-
 # Navigate to the project folder
 cd Plant-Leaf-Disease-Detection
 
