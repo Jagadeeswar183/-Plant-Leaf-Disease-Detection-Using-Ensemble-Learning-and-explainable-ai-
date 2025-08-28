@@ -42,7 +42,7 @@ Plant-Leaf-Disease-Detection/
 
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/your-username/Plant-Leaf-Disease-Detection.git
+git clone https://github.com/Jagadeeswar183/Plant-Leaf-Disease-Detection.git
 
 # Navigate to the project folder
 cd Plant-Leaf-Disease-Detection
